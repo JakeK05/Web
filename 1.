@@ -1,0 +1,71 @@
+
+<!DOCTYPE html>
+<html> 
+<head>홈페이지 리스트   </head>
+<body>
+<h2 style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <b>shopee</b> 
+    <hr color="blue" size="5"></h2>
+<ol>
+  <li>
+      <a href ="https://seller.shopee.com.my/" target="_blank"  ><strong>말레이시아 MY </strong></a> </li>
+  <li>
+    <a href ="https://seller.shopee.sg" target="_blank"  ><strong>싱가포르 SG</strong></a> </li>
+  <li>
+    <a href =https://seller.shopee.tw/ target="_blank"  ><strong>대만TW</strong></a> </li>
+  <li> 
+<a href ="https://seller.shopee.ph/" target="_blank"> 필리핀 PH</a> </li>
+  <li> 
+<a href ="https://seller.shopee.co.id/" target="_blank"  >인도네시아 ID</a> </li>
+  <li>
+    <a href ="https://banhang.shopee.vn//" target="_blank"  >베트남 VN</a> </li>
+  <li>
+    <a href ="https://seller.shopee.co.th//" target="_blank"  >태국 TH </a> </li>
+</ol>
+<h3>배송 관련<hr color="blue" size="5" > </h3>
+<ul>
+    <li><a href="https://www.tracking.my/poslaju" target="_blank">말레이시아 포스랴쥬</a>
+      </li>
+    <li><a href="https://www.thecloudgate.io/webchat/main?brandKey=SkbTAbYm6VOl0XrGommbgQ&type=scenario" 
+        
+      target="_blank"> 챗봇 문의방(배송,기타 등등)</a> 
+      <hr color="blue" size="5" > </li>
+</ul>
+      <h3> <strog >애터미 나라별</strog></h3>
+<ul>
+     <li><a href="https://www.atomy.kr/v2/Home/Product/MallMain" target="_blank"> 
+    atomy KR</a></li>
+    <li><a href="https://www.atomy.com/my/Home/Product/MallMain " target="_blank"> 
+        atomy MY</a></li>
+        <li><a href="https://www.atomy.com/tw/Home/Product/MallMain" target="_blank"> 
+            atomy TW</a></li>
+            <li><a href="https://seller.shopee.ph" target="_blank"> 
+                atomy PH</a> 
+                <hr color="blue"  size="5">  </li>
+</ul >    
+<h3> 기타 </h3>
+<ul>   
+        <li><a href ="https://papago.naver.com/?sk=auto&tk=ko&st=Sorry%20because%20I%20transfer%20two%20times%20so%20I%20scare%20you%20nv%20saw%20my%20msg"
+     target="_blank"  > 네이버 파파고 </a> </li>
+    <li><a href ="https://translate.google.com/" target="_blank"  >구글 번역 </a>
+        <a href ="https://www.naver.com/" target="_blank"  >네이버 </a> </li>
+    <li>  <a href="https://search.naver.com/search.naver?
+    sm=tab_hty.top&where=nexearch&query=%EB%8B%AC%EB%9F%AC+%ED%99%98%EC%9C%A8&oquery
+    =%EB%84%A4%EC%9D%B4%EB%B2%84+%EB%8B%AC%EB%9F%AC&tqi=h4s07wprvxsssZ%2B9csossssss2s-395526"
+     target="_blank">네이버 환율 : 달러</a></li>
+  <li> <a href="https://docs.google.com/spreadsheets/u/0/"> 
+  구글 스프레드시트</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1kWmU_zomsP_OkTuPG3Y7qQoxZ0Gvx9mrNsAB4R3VLf8/edit#gid=486547178">
+  구매입고 내역 </a></li>
+   <li><a href="https://medipeelchina.com/"> 메디필 중국</a></li>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+    </ul>
+    </body>
+   </html>
