@@ -1,0 +1,50 @@
+
+.wrapper    {
+    display: grid;
+    grid-template-columns: 35% 35% 30%;
+    border: 3px solid;
+    padding: 20px;
+    margin: 20px;   
+} 
+
+}
+.wrapper div{
+    padding:  1em;
+    }  
+.wrapper ol,ul{
+    padding: 0;
+    list-style: square;
+    list-style-type: none;
+}
+h1 {
+    text-align: center;             
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a :hover {
+    color: red;
+}
+.W1{
+    border: 1px #ccc solid ;
+    padding:10px;
+    border-radius: 15px;
+    width: 80%;
+}
+.W2{
+    border: 1px #ccc solid ;
+    padding:10px;
+    border-radius: 15px;
+    width: 80%;
+}
+.W3{
+    border: 1px #ccc solid ;
+    padding:10px;
+    border-radius: 15px;
+    width: 90%;
+}
+.bridge {
+    display: block; width: 50%; height: 100%;
+    object-position: right top;
+}
