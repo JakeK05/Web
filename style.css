@@ -1,4 +1,6 @@
-
+.body{
+    background-color: black;
+    color: white;
 }
 .wrapper    {
     display: grid;
@@ -51,3 +53,4 @@ li :hover {
     display: block; width: 50%; height: 100%;
     object-position: right top;
 }
+
